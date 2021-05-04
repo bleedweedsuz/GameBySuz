@@ -1,0 +1,9 @@
+#### Research Projects
+
+1. Small World: Research Project for windows and android platform. This game is primarly focus in hack and slash. Using pathfinding AI for main character and enemy character different features are made like auto attack system for character if enemy comes in specified distance, enemy system search for character using radar system.
+2. Unknown Phase: This is also a research project for windows platform. Category for this game is third person shooter. Enemy character use pathfinding algorithm to search main player character and automatically try to kill main character. Here main character use shooting system to kill ememy character. Main character also use object pickup system to reload bullet, increase health and pickup energy capsule.
+3. Bagchal: Bagh-Chal is a strategic, two-player board game that originated in Nepal. The game is asymmetric in that one player controls four tigers and the other player controls up to twenty goats. The tigers 'hunt' the goats while the goats attempt to block the tigers' movements. This game is also seen in southern India with a different board.
+4. Cube Dodge: Dodge different boxes using different input system either buttons or accelerometer inside your phone. 
+5. JellyFied: This project used platformer technique to reach goals. Character leaps from surface to surface, dodging various enemy and obstacles to reach the goal. This project can find in "JellyFied" directory. For more info please read "readme" file.
+6. Project Rex: This project is inspired by "Dinosaur T-Rex Game" and i like to add some features in the game so i made this game. It can run in android currently.
+7. Endless: This is simple test project for using some wierd graphics images using pencil texture. This game uses platformer technique to reach specified goal.
